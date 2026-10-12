@@ -3,5 +3,5 @@ Portafolio de Análisis de Datos con proyectos en SQL, Python y Visualización d
 # 📚 Contenido
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+- [Visualización](#visualizacion)
+- [Casos_Aplicados](#casos-aplicados)
