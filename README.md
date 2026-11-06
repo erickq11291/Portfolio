@@ -17,8 +17,6 @@ Portafolio de Análisis de Datos con proyectos en SQL, Python y Visualización d
 
 | Link | Área | Descripción del proyecto |
 |---|---|---|
-| 👥 [HR Analytics & Employee Attrition Analysis](https://github.com/erickq11291/superstore-business-analysis/blob/71cd1e340520e23314f9cbaa4b0ecc4c13c9306f/README.md) | Procesamiento de datos,  EDA, Machine Learning | Proyecto de análisis de recursos humanos desarrollado con Python utilizando datos de empleados. Incluye limpieza de datos, transformación de variables, análisis exploratorio, visualización de datos y modelos de Machine Learning para identificar factores asociados al desempeño, satisfacción y abandono de empleados. |
-| 👩🏻‍⚕️ [Comportamiento de usuarios de Netflix](https://github.com/erickq11291/Proyecto-Netflix/blob/d343be9ea3d3e0d7f95f6e4f5a27611f11a3d17f/README.md) | Comportamiento de clientes y análisis de abandono | Proyecto de análisis de clientes desarrollado en SQL Server para estudiar patrones de consumo, segmentación de usuarios, preferencias de contenido y abandono de suscriptores mediante consultas SQL avanzadas. |  
-
+| 👥 [HR Analytics & Employee Attrition Analysis](https://github.com/erickq11291/Proyectos-Python/blob/3aac4ac32602d8ef71bf69f53e435f10fbb62dbb/Proyecto_HR_Analisis.ipynb) | Procesamiento de datos,  EDA, Machine Learning | Proyecto de análisis de recursos humanos desarrollado con Python utilizando datos de empleados. Incluye limpieza de datos, transformación de variables, análisis exploratorio, visualización de datos y modelos de Machine Learning para identificar factores asociados al desempeño, satisfacción y abandono de empleados. |
 
 ***
