@@ -24,7 +24,7 @@ Portafolio de Análisis de Datos con proyectos en SQL, Python y Visualización d
 
 | Link | Descripción del proyecto | Dashboard Link |
 |---|---|---|
-|🚗[Análisis de Accidentes de Tráfico en Madrid 2025](https://github.com/erickq11291/Analisis-Trafico-Madrid-2025/blob/18f0cbdac535d723267c7cda8c5d825e3dc98260/README.md) | Proyecto de análisis desarrollado en Power BI utilizando datos abiertos del Ayuntamiento de Madrid. Permite explorar la distribución de los accidentes de tráfico mediante indicadores clave como el total de accidentes registrados, los meses con mayor incidencia, los distritos con más accidentes y la concentración geográfica de los siniestros a través de mapas y visualizaciones interactivas. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFhNDRiNTMtNDFhYi00NzEyLThiM2QtYjA0Zjc5YjRmNThjIiwidCI6Ijk2NjIzM2UzLTBiNzUtNGM3Ny04NzdhLWQ5YjcwYTY5ZWEwMSIsImMiOjR9) |
+|🚗[Análisis de Accidentes de Tráfico en Madrid 2025](https://github.com/erickq11291/Analisis-Trafico-Madrid-2025/blob/18f0cbdac535d723267c7cda8c5d825e3dc98260/README.md) | Dashboard interactivo que permite analizar los accidentes de tráfico ocurridos en Madrid durante 2025. Incluye indicadores clave, evolución mensual, distritos con más accidentes y un mapa de calor para identificar las zonas con mayor concentración de incidencias. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFhNDRiNTMtNDFhYi00NzEyLThiM2QtYjA0Zjc5YjRmNThjIiwidCI6Ijk2NjIzM2UzLTBiNzUtNGM3Ny04NzdhLWQ5YjcwYTY5ZWEwMSIsImMiOjR9) |
 
 
 
