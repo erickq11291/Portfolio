@@ -20,4 +20,12 @@ Portafolio de Análisis de Datos con proyectos en SQL, Python y Visualización d
 |🏥[Healthcare Analysis](https://github.com/erickq11291/Proyectos-Python/blob/5043c10c30db08d36ab1c707849656265cecdeb0/Proyecto_Healthcare_Analysis.ipynb) | Procesamiento de datos, EDA | Proyecto de análisis de datos sanitarios utilizando registros hospitalarios de pacientes. Incluye limpieza de datos, transformación de variables, análisis exploratorio y visualización de datos para identificar factores asociados a los costes hospitalarios, ingresos, tiempos de recuperación, condiciones médicas y resultados clínicos. |
 | 👥 [HR Analytics & Employee Attrition Analysis](https://github.com/erickq11291/Proyectos-Python/blob/3aac4ac32602d8ef71bf69f53e435f10fbb62dbb/Proyecto_HR_Analisis.ipynb) | Procesamiento de datos,  EDA, Machine Learning | Proyecto de análisis de recursos humanos desarrollado con Python utilizando datos de empleados. Incluye limpieza de datos, transformación de variables, análisis exploratorio, visualización de datos y modelos de Machine Learning para identificar factores asociados al desempeño, satisfacción y abandono de empleados. |
 
+# Power BI
+
+| Link | Descripción del proyecto | Dashboard Link |
+|---|---|---|
+|🚗[Análisis de Accidentes de Tráfico en Madrid 2025](https://github.com/erickq11291/Analisis-Trafico-Madrid-2025/blob/18f0cbdac535d723267c7cda8c5d825e3dc98260/README.md) | Proyecto de análisis desarrollado en Power BI utilizando datos abiertos del Ayuntamiento de Madrid. Permite explorar la distribución de los accidentes de tráfico mediante indicadores clave como el total de accidentes registrados, los meses con mayor incidencia, los distritos con más accidentes y la concentración geográfica de los siniestros a través de mapas y visualizaciones interactivas. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFhNDRiNTMtNDFhYi00NzEyLThiM2QtYjA0Zjc5YjRmNThjIiwidCI6Ijk2NjIzM2UzLTBiNzUtNGM3Ny04NzdhLWQ5YjcwYTY5ZWEwMSIsImMiOjR9) |
+
+
+
 ***
