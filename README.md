@@ -18,7 +18,7 @@ Portafolio de Análisis de Datos con proyectos en SQL, Python y Visualización d
 | Link | Área | Descripción del proyecto |
 |---|---|---|
 |🏥[Healthcare Analysis](https://github.com/erickq11291/Proyectos-Python/blob/5043c10c30db08d36ab1c707849656265cecdeb0/Proyecto_Healthcare_Analysis.ipynb) | Procesamiento de datos, EDA | Proyecto de análisis de datos sanitarios utilizando registros hospitalarios de pacientes. Incluye limpieza de datos, transformación de variables, análisis exploratorio y visualización de datos para identificar factores asociados a los costes hospitalarios, ingresos, tiempos de recuperación, condiciones médicas y resultados clínicos. |
-| 👥 [HR Analytics & Employee Attrition Analysis](https://github.com/erickq11291/Proyectos-Python/blob/3aac4ac32602d8ef71bf69f53e435f10fbb62dbb/Proyecto_HR_Analisis.ipynb) | Procesamiento de datos,  EDA, Machine Learning | Análisis de recursos humanos realizado con Python utilizando datos de empleados. Incluye limpieza de datos, transformación de variables, análisis exploratorio, visualización de datos y modelos de Machine Learning para identificar factores asociados al desempeño, la satisfacción y la rotación de empleados. |
+| 👥 [HR Analytics & Employee Attrition Analysis](https://github.com/erickq11291/Proyectos-Python/blob/3aac4ac32602d8ef71bf69f53e435f10fbb62dbb/Proyecto_HR_Analisis.ipynb) | Procesamiento de datos,  EDA, Machine Learning | Análisis de datos de recursos humanos realizado con Python utilizando datos de empleados. Incluye limpieza de datos, transformación de variables, análisis exploratorio, visualización de datos y modelos de Machine Learning para identificar factores asociados al desempeño, la satisfacción y la rotación de empleados. |
 
 # Power BI
 
