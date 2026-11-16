@@ -4,7 +4,6 @@ Portafolio de Análisis de Datos con proyectos en SQL, Python y Visualización d
 - [SQL](#sql)
 - [Python](#python)
 - [Visualización](#visualizacion)
-- [Casos_Aplicados](#casos-aplicados)
 
 # SQL
 
